@@ -1,4 +1,0 @@
-Chat
-====
-
-JMQM Officials
